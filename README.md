@@ -2,4 +2,4 @@
 We have developed a shortcut keyboard for every day use with the look and feel of the iconic PDA used throughout any playthrough of Subnautica. 
 The idea is a 20 key keyboard that is programmed to take you to useful platforms like google drive, youtube, calendar apps, and more. You keep it in your hand and when a specific key is pressed, it will take you to a specific platform just like a regular shortcut would.
 This is for the Hackclub Fallout competition, and we decided to create it because we all love the game and electronics and we wanted a way to combine the two in a way that was still useful, so we landed on a keyboard. It could be kept off to the side of a desk and held in one hand for convenience.
-<img width="531" height="382" alt="image_2026-04-11_010619964" src="https://github.com/user-attachments/assets/f52543f9-dcda-4fdf-bd9f-c3362134cf8c" />
+<img width="531" height="382" alt="image_2026-04-11_010619964" src="https://github.com/user-attachments/assets/f52543f9-dcda-4fdf-bd9f-c3362134cf8c" /> This is a prototype model of what the finished keyboard with the keys could look like, separated into 4 rows.
