@@ -5,7 +5,8 @@ This is for the Hackclub Fallout competition, and we decided to create it becaus
 
 Below is a screenshot of our finished 3D model
 
-<img width="922" height="577" alt="Screenshot 2026-05-25 170318" src="https://github.com/user-attachments/assets/35a76b9a-9f4e-4dfb-ad93-26a2704e0a7e" />
+<img width="833" height="541" alt="Screenshot 2026-05-28 215320" src="https://github.com/user-attachments/assets/d711ede2-f640-4cba-8fdc-dc10a940e330" />
+
 
 
 
