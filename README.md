@@ -11,7 +11,7 @@ Below are screenshots of our 3d model at different angles
 <img width="1095" height="503" alt="Screenshot 2026-05-30 192511" src="https://github.com/user-attachments/assets/b74f7345-1002-459b-99a3-73f0671a9019" />
 <img width="1220" height="393" alt="Screenshot 2026-05-30 192428" src="https://github.com/user-attachments/assets/908ac745-edf5-4026-b0e5-298272a633ec" />
 <img width="733" height="496" alt="Screenshot 2026-05-30 191524" src="https://github.com/user-attachments/assets/69f906f9-6d6c-4c68-bd4c-1ba5e965f3ab" />
-<img width="1216" height="167" alt="Screenshot 2026-05-30 174953" src="https://github.com/user-attachments/assets/2b4ffb8b-baba-4340-9265-209888eec866" />
+
 
 Below are images of our PCB, both the front and back side
 
