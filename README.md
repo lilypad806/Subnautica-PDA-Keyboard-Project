@@ -6,11 +6,12 @@ This is for the Hackclub Fallout competition, and we decided to create it becaus
 
 Below are screenshots of our 3d model at different angles
 
-<img width="1339" height="462" alt="Screenshot 2026-05-30 192646" src="https://github.com/user-attachments/assets/ee526450-62de-40aa-888a-60336188d5ab" />
-<img width="1360" height="293" alt="Screenshot 2026-05-30 192616" src="https://github.com/user-attachments/assets/8b43683a-7bc7-4e3f-a185-1d0551353c0f" />
-<img width="1095" height="503" alt="Screenshot 2026-05-30 192511" src="https://github.com/user-attachments/assets/b74f7345-1002-459b-99a3-73f0671a9019" />
-<img width="1220" height="393" alt="Screenshot 2026-05-30 192428" src="https://github.com/user-attachments/assets/908ac745-edf5-4026-b0e5-298272a633ec" />
-<img width="733" height="496" alt="Screenshot 2026-05-30 191524" src="https://github.com/user-attachments/assets/69f906f9-6d6c-4c68-bd4c-1ba5e965f3ab" />
+<img width="1218" height="361" alt="Screenshot 2026-05-30 194850" src="https://github.com/user-attachments/assets/3f74eda4-aad0-4d62-87f6-dcce349de1db" />
+<img width="1375" height="198" alt="Screenshot 2026-05-30 194814" src="https://github.com/user-attachments/assets/3b7192fb-ed97-4a4d-bdce-99879f8bee73" />
+<img width="1210" height="382" alt="Screenshot 2026-05-30 194711" src="https://github.com/user-attachments/assets/cf37df8f-ebc8-4fce-ae87-8bba47480391" />
+<img width="1365" height="242" alt="Screenshot 2026-05-30 194631" src="https://github.com/user-attachments/assets/a9448751-18c4-467a-a915-1c4948a71cce" />
+<img width="875" height="574" alt="Screenshot 2026-05-30 194548" src="https://github.com/user-attachments/assets/84bfe70d-dc07-45b4-9f46-ee6f2f1a647f" />
+
 
 
 Below are images of our PCB, both the front and back side
