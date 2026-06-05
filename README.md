@@ -6,6 +6,7 @@ The idea is a 20 key macropad that is programmed to take you to useful platforms
 
 Below are screenshots of our 3d model at different angles
 
+<img width="607" height="410" alt="image_2026-06-05_151207935" src="https://github.com/user-attachments/assets/7cada313-50c0-4edb-8d6d-d07a7320eba3" />
 <img width="654" height="206" alt="Screenshot 2026-06-05 150850" src="https://github.com/user-attachments/assets/e702b6c3-a6a7-425e-89cb-304fb05878c3" />
 <img width="534" height="236" alt="Screenshot 2026-06-05 150837" src="https://github.com/user-attachments/assets/57d90b13-b6ca-4b93-a008-af72279c79e8" />
 <img width="801" height="178" alt="Screenshot 2026-06-05 150818" src="https://github.com/user-attachments/assets/9d852cac-ea84-452d-a266-94c1ace6947c" />
