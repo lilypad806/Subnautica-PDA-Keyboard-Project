@@ -6,11 +6,11 @@ The idea is a 20 key macropad that is programmed to take you to useful platforms
 
 Below are screenshots of our 3d model at different angles
 
-<img width="607" height="410" alt="image_2026-06-05_151207935" src="https://github.com/user-attachments/assets/7cada313-50c0-4edb-8d6d-d07a7320eba3" />
-<img width="654" height="206" alt="Screenshot 2026-06-05 150850" src="https://github.com/user-attachments/assets/e702b6c3-a6a7-425e-89cb-304fb05878c3" />
-<img width="534" height="236" alt="Screenshot 2026-06-05 150837" src="https://github.com/user-attachments/assets/57d90b13-b6ca-4b93-a008-af72279c79e8" />
-<img width="801" height="178" alt="Screenshot 2026-06-05 150818" src="https://github.com/user-attachments/assets/9d852cac-ea84-452d-a266-94c1ace6947c" />
-<img width="619" height="279" alt="Screenshot 2026-06-05 150758" src="https://github.com/user-attachments/assets/0717ce33-4c9e-4a7a-9b27-b7f658b8c71d" />
+<img width="1053" height="283" alt="Screenshot 2026-06-06 153100" src="https://github.com/user-attachments/assets/90f9e16d-a4dc-4f13-bc65-6ca74a033685" />
+<img width="1001" height="432" alt="Screenshot 2026-06-06 153040" src="https://github.com/user-attachments/assets/21d6d180-9793-4a09-9b47-1f607f6909e5" />
+<img width="1007" height="285" alt="Screenshot 2026-06-06 153031" src="https://github.com/user-attachments/assets/04f61782-e1bb-4958-a399-bc4eaa5e0616" />
+<img width="583" height="360" alt="Screenshot 2026-06-06 153023" src="https://github.com/user-attachments/assets/92910c23-bcd9-47f6-a3c3-af803db7ad7b" />
+<img width="840" height="538" alt="Screenshot 2026-06-06 153014" src="https://github.com/user-attachments/assets/bd080cfb-a74b-48c1-bba6-c53d97968f4d" />
 
 Below are images of our PCB, both the front and back side
 
