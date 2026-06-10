@@ -15,8 +15,8 @@ Below are screenshots of our 3d model at different angles
 
 Below are images of our PCB, both the front and back side
 
-<img width="314" height="371" alt="Screenshot 2026-05-30 192943" src="https://github.com/user-attachments/assets/0c775659-3e87-4af7-9325-9fca853dace2" />
 <img width="320" height="377" alt="Screenshot 2026-05-30 193001" src="https://github.com/user-attachments/assets/0ff4b330-6295-4921-a9ba-8bb58ec2f31a" />
+<img width="314" height="371" alt="Screenshot 2026-05-30 192943" src="https://github.com/user-attachments/assets/0c775659-3e87-4af7-9325-9fca853dace2" />
 
 Below is a picture of the Fallout Zine
 
