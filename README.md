@@ -21,5 +21,4 @@ Below are images of our PCB, both the front and back side
 
 Below is a picture of the Fallout Zine
 
-<img width="1728" height="2304" alt="Subnautica PDA Fallout Zine design" src="https://github.com/user-attachments/assets/8c3d08d7-e2f1-43bf-9018-1fc22d1b7f89" />
-
+ <img width="1728" height="2304" alt="Subnautica PDA Fallout Zine design (2)" src="https://github.com/user-attachments/assets/27fcd153-2eec-45f9-b716-b19088243d4b" />
