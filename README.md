@@ -23,6 +23,9 @@ Below is a PNG file of the Fallout Zine
 
 <img width="1410" height="2000" alt="Shortcut PDA Fallout Zine design (1)" src="https://github.com/user-attachments/assets/0c4c10ab-b50d-4c58-a53d-e8dbcffbf6b9" />
 
+Below is a screenshot of the BOM in case the file doesn't work
+
+<img width="1549" height="180" alt="Screenshot 2026-06-15 162940" src="https://github.com/user-attachments/assets/e28764cf-8e4f-4deb-894f-3df7662352f8" />
 
 
 
