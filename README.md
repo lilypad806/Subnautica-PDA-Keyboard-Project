@@ -21,7 +21,8 @@ Below are images of our PCB, both the front and back side
 
 Below is a PNG file of the Fallout Zine
 
-<img width="1410" height="2000" alt="Shortcut PDA Fallout Zine design (1)" src="https://github.com/user-attachments/assets/0c4c10ab-b50d-4c58-a53d-e8dbcffbf6b9" />
+<img width="1410" height="2000" alt="Shortcut PDA Fallout Zine design (3)" src="https://github.com/user-attachments/assets/d34524c5-d59b-4aae-962d-1901383f55b1" />
+
 
 Below is a screenshot of the BOM in case the file doesn't work
 
