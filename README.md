@@ -14,10 +14,10 @@ Below are screenshots of our 3d model at different angles
 
 <img width="840" height="538" alt="Screenshot 2026-06-06 153014" src="https://github.com/user-attachments/assets/bd080cfb-a74b-48c1-bba6-c53d97968f4d" />
 
-Below are images of our PCB, both the front and back side
+Below is an image of our Pico
 
-<img width="320" height="377" alt="Screenshot 2026-05-30 193001" src="https://github.com/user-attachments/assets/0ff4b330-6295-4921-a9ba-8bb58ec2f31a" />
-<img width="314" height="371" alt="Screenshot 2026-05-30 192943" src="https://github.com/user-attachments/assets/0c775659-3e87-4af7-9325-9fca853dace2" />
+<img width="610" height="508" alt="image_2026-06-18_192753361" src="https://github.com/user-attachments/assets/0881d7c2-ac88-44e8-bba8-3e27ef90f5f5" />
+
 
 Below is a photo of the Fallout Zine
 
@@ -27,7 +27,7 @@ Below is a photo of the Fallout Zine
 
 Below is a screenshot of the BOM in case the file doesn't work
 
-<img width="1551" height="181" alt="image_2026-06-17_203918185" src="https://github.com/user-attachments/assets/238f62d1-4362-4cbb-9ca3-40cc25a7acd4" />
+<img width="1510" height="233" alt="image_2026-06-18_192853541" src="https://github.com/user-attachments/assets/5de14c26-4f3e-4bec-b557-db88633ddd90" />
 
 
 
