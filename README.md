@@ -28,7 +28,8 @@ Below is a photo of the Fallout Zine
 
 Below is a screenshot of the BOM in case the file doesn't work
 
-<img width="1510" height="233" alt="image_2026-06-18_192853541" src="https://github.com/user-attachments/assets/5de14c26-4f3e-4bec-b557-db88633ddd90" />
+<img width="1509" height="235" alt="image_2026-06-19_130122324" src="https://github.com/user-attachments/assets/df343532-68d9-4de5-b5e6-ffaed388cff0" />
+
 
 
 
