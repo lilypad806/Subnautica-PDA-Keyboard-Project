@@ -14,9 +14,10 @@ Below are screenshots of our 3d model at different angles
 
 <img width="840" height="538" alt="Screenshot 2026-06-06 153014" src="https://github.com/user-attachments/assets/bd080cfb-a74b-48c1-bba6-c53d97968f4d" />
 
-Below is an image of the Pico W that we're using
+Below is an irl image of the Pico W that we're using, as well as a digital image that is a bit higher quality
 
 <img width="610" height="508" alt="image_2026-06-18_192753361" src="https://github.com/user-attachments/assets/0881d7c2-ac88-44e8-bba8-3e27ef90f5f5" />
+<img width="473" height="335" alt="image_2026-06-19_125423635" src="https://github.com/user-attachments/assets/b296565c-68d7-41b4-be1f-fc97b4e20c83" />
 
 
 Below is a photo of the Fallout Zine
