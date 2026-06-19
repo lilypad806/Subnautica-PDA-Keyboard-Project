@@ -7,10 +7,10 @@ The idea is a 20 key macropad that is programmed to take you to useful platforms
 
 Below are screenshots of our 3d model at different angles
 
+<img width="962" height="399" alt="image_2026-06-10_173409374" src="https://github.com/user-attachments/assets/30c97a47-b507-4a44-ac6d-edab268f0311" />
 <img width="1053" height="283" alt="Screenshot 2026-06-06 153100" src="https://github.com/user-attachments/assets/90f9e16d-a4dc-4f13-bc65-6ca74a033685" />
 <img width="1001" height="432" alt="Screenshot 2026-06-06 153040" src="https://github.com/user-attachments/assets/21d6d180-9793-4a09-9b47-1f607f6909e5" />
 <img width="1007" height="285" alt="Screenshot 2026-06-06 153031" src="https://github.com/user-attachments/assets/04f61782-e1bb-4958-a399-bc4eaa5e0616" />
-<img width="962" height="399" alt="image_2026-06-10_173409374" src="https://github.com/user-attachments/assets/30c97a47-b507-4a44-ac6d-edab268f0311" />
 
 <img width="840" height="538" alt="Screenshot 2026-06-06 153014" src="https://github.com/user-attachments/assets/bd080cfb-a74b-48c1-bba6-c53d97968f4d" />
 
