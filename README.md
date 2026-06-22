@@ -1,15 +1,29 @@
 
 Subnautica-PDA-Keyboard-Project
 
-Short description / Uniqeness:          This project was created by Lilyana Grabrovaz and Vivaan Anand for the Fallout Hardware Hackathon event.
-We have developed a shortcut macropad for every day use with a look and feel similar to the iconic PDA used throughout any playthrough of Subnautica. 
-The idea is a 20 key macropad that is programmed to open applications. It can be programmed for gaming, coding, engineering, and more. You keep it in your hand and when a specific key is pressed, it will open the application that is programmed, just like a regular shortcut would. Our project is inspired by popular streamdecks/other shortcut keyboard DIYs, but with a twist; the fact that it looks like it's straight out of planet 4546-B, and it uses actual keycaps instead of a liquid crystal display.
+# Subnautica PDA Keyboard Project
+> A 20-key shortcut macropad inspired by the PDA from Subnautica, 
+> built for Hack Club Fallout by Lilyana Grabrovaz & Vivaan Anand.
 
-How we use it:        We use this pda macropad to help us search between apps and tabs as if we were searching through the seas of 4546-B. this helps us stay efficient in our day to day tasks and if we every need to open anything in a hurry
+## What is it?
+A handheld macropad designed to open applications and navigate 
+shortcuts — styled after the iconic PDA from planet 4546-B. 
+Think Streamdeck, but Subnautica-themed and with real keycaps.
 
-Why we made it:         We decided to create this because we both absolutely love Subnautica and want to commemorate the launch of subnautica 2 and we love actually useful electronics and we wanted a way to combine the two in a way that was still useful, so we landed on a keyboard. While a normal keyboard is great, the 104 keys present on a standard keyboard would be hard to cram into the model we come up with and would make it crowded and bulky so we decided on a macropad which is a lot smaller and we specified it into one that is entirely for shortcuts, kept separate from a typical keyboard you use to type with. The idea was that the macropad could be kept off to the side of a desk and held in one hand for convenience so your desk isnt cluttered from a whole separate keyboard lying around. We felt that a handheld style worked best because it keeps true to the original function of the PDA in Subnautica, as well as being easier to store and use. This repository contains files for programming applications/firmware, a wiring guide, 3d model .F3D and .STEP files, a BOM file, a PDF file of our zine, and a link to our google doc we used to communicate, put resources and plans in, give reminders, and use as a sort of "HQ" for the project.
+## Features
+- 20 programmable keys
+- Opens apps, switches tabs, runs shortcuts
+- Handheld form factor — keeps your desk uncluttered
+- Inspired by Subnautica 2's launch
 
-Below are screenshots of our finished 3d model at different angles
+## Why we made it
+We both love Subnautica and wanted to commemorate Subnautica 2. 
+We combined that with a genuinely useful tool — a compact 
+shortcut pad you hold in one hand, just like the in-game PDA.
+
+## How to use it
+Press any key to trigger its programmed shortcut. 
+Configure keys to open apps, switch tabs, or run macros.
 
 <img width="962" height="399" alt="image_2026-06-10_173409374" src="https://github.com/user-attachments/assets/30c97a47-b507-4a44-ac6d-edab268f0311" />
 <img width="1053" height="283" alt="Screenshot 2026-06-06 153100" src="https://github.com/user-attachments/assets/90f9e16d-a4dc-4f13-bc65-6ca74a033685" />
