@@ -37,6 +37,10 @@ Below is a screenshot of the BOM in case the file doesn't work
 
 <img width="1509" height="235" alt="image_2026-06-19_130122324" src="https://github.com/user-attachments/assets/df343532-68d9-4de5-b5e6-ffaed388cff0" />
 
+Below is a link tot our resource doc
+
+https://docs.google.com/document/d/19aOlmUgrO6DytNxYQkW4dWscHFFu2gOW1SyRqtNtI8U/edit?tab=t.0#heading=h.lp1vwpmlc9ll 
+
 
 
 
