@@ -6,15 +6,15 @@ Subnautica-PDA-Keyboard-Project
 > built for Hack Club Fallout by Lilyana Grabrovaz & Vivaan Anand.
 
 ## What is it?
-A handheld macropad designed to open applications and navigate 
-shortcuts. styled after the iconic PDA from planet 4546-B. 
+It is a handheld macropad designed to open applications and navigate 
+shortcuts just like navigating 4546-B. It was styled after the iconic PDA from planet 4546-B. 
 Think like a Streamdeck, but Subnautica-themed and with real keycaps.
 
 ## Features
-- It has 20 programmable keys
-- Opens apps, switches tabs, runs shortcuts
-- It has a handheld form factor which keeps your desk uncluttered
-- Inspired by Subnautica 2's launch
+- It has 20 programmable keys.
+- Opens apps, switches tabs, runs shortcuts.
+- It has a handheld form factor which keeps your desk uncluttered.
+- Inspired by Subnautica 2's launch.
 
 ## Why we made it
 We both love Subnautica and wanted to commemorate Subnautica 2. 
