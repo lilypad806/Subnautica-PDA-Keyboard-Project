@@ -7,18 +7,18 @@ Subnautica-PDA-Keyboard-Project
 
 ## What is it?
 A handheld macropad designed to open applications and navigate 
-shortcuts — styled after the iconic PDA from planet 4546-B. 
-Think Streamdeck, but Subnautica-themed and with real keycaps.
+shortcuts. styled after the iconic PDA from planet 4546-B. 
+Think like a Streamdeck, but Subnautica-themed and with real keycaps.
 
 ## Features
-- 20 programmable keys
+- It has 20 programmable keys
 - Opens apps, switches tabs, runs shortcuts
-- Handheld form factor — keeps your desk uncluttered
+- It has a handheld form factor which keeps your desk uncluttered
 - Inspired by Subnautica 2's launch
 
 ## Why we made it
 We both love Subnautica and wanted to commemorate Subnautica 2. 
-We combined that with a genuinely useful tool — a compact 
+We combined that with a genuinely useful tool a compact 
 shortcut pad you hold in one hand, just like the in-game PDA.
 
 ## How to use it
