@@ -17,8 +17,8 @@ Think like a Streamdeck, but Subnautica-themed and with real keycaps.
 - Inspired by Subnautica 2's launch.
 
 ## Why we made it
-We both love Subnautica and wanted to commemorate Subnautica 2. 
-We combined that with a genuinely useful tool a compact 
+We both love Subnautica and wanted to commemorate Subnautica 2's Release by making our project inspired by one of the base game's most iconic designs. 
+We combined the inspiration from subnautica's cool tech with a genuinely useful tool; a compact 
 shortcut pad you hold in one hand, just like the in-game PDA.
 
 ## How to use it
