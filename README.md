@@ -24,6 +24,9 @@ shortcut pad you hold in one hand, just like the in-game PDA.
 Press any key to trigger its programmed shortcut. 
 Configure keys to open apps, switch tabs, or run macros.
 
+## Firmware flashing instructions for the Pico W
+To flash the Pico W firmware, you first need to unplug it from the computer, then you need to reconnect it in BOOTSEL mode by pressing the white BOOTSEL button while simultaneously plugging it back into your computer. Once the computer recognizes the drive, stop pressing the BOOTSEL button. After this you need to open the Thonny IDE application, click on the interpreter menu and click configure interpreter. Make sure the tab is set to MicroPython, then click the link that says install/update MicroPython. When a new box pops up, click your RP1-RP2 from target port/volume, click Raspberry Pi from MicroPython family, and click the variant Raspberry Pi Pico W. Then click install.
+
 <img width="962" height="399" alt="image_2026-06-10_173409374" src="https://github.com/user-attachments/assets/30c97a47-b507-4a44-ac6d-edab268f0311" />
 <img width="1053" height="283" alt="Screenshot 2026-06-06 153100" src="https://github.com/user-attachments/assets/90f9e16d-a4dc-4f13-bc65-6ca74a033685" />
 <img width="1001" height="432" alt="Screenshot 2026-06-06 153040" src="https://github.com/user-attachments/assets/21d6d180-9793-4a09-9b47-1f607f6909e5" />
@@ -51,6 +54,8 @@ https://docs.google.com/document/d/19aOlmUgrO6DytNxYQkW4dWscHFFu2gOW1SyRqtNtI8U/
 This is where you input the micro USB
 
 <img width="322" height="121" alt="image_2026-06-22_214208704" src="https://github.com/user-attachments/assets/0a69fab8-e3c1-4bd5-a7a9-d5b363178e05" />
+
+
 
 
 
