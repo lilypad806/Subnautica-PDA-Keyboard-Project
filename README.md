@@ -14,7 +14,6 @@ Think like a Streamdeck, but Subnautica-themed and with real keycaps.
 - It has 20 programmable keys.
 - Opens apps, switches tabs, runs shortcuts.
 - It has a handheld form factor which keeps your desk uncluttered.
-- Inspired by Subnautica 2's launch.
 
 ## Why we made it
 We both love Subnautica and wanted to commemorate Subnautica 2's Release by making our project inspired by one of the base game's most iconic designs. 
