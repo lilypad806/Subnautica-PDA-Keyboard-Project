@@ -49,6 +49,11 @@ Below is a link to our resource doc
 
 https://docs.google.com/document/d/19aOlmUgrO6DytNxYQkW4dWscHFFu2gOW1SyRqtNtI8U/edit?tab=t.0#heading=h.lp1vwpmlc9ll 
 
+This is where you input the micro USB
+
+<img width="322" height="121" alt="image_2026-06-22_214208704" src="https://github.com/user-attachments/assets/0a69fab8-e3c1-4bd5-a7a9-d5b363178e05" />
+
+
 
 
 
