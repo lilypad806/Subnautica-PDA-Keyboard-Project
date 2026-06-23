@@ -41,10 +41,6 @@ Below is a screenshot of our wiring diagram
 
 <img width="612" height="423" alt="image_2026-06-20_160406813" src="https://github.com/user-attachments/assets/659819aa-efba-4f96-9686-520296986fa1" />
 
-Below is a photo of the Fallout Zine
-
-<img width="1410" height="2000" alt="Shortcut PDA Fallout Zine design" src="https://github.com/user-attachments/assets/d4a791a6-b56a-4cbc-8af0-d28524baa29c" />
-
 Below is a screenshot of the BOM in case the file doesn't work
 
 <img width="1497" height="250" alt="Screenshot 2026-06-22 211508" src="https://github.com/user-attachments/assets/a670221a-5f7e-4ed4-b85a-f7d5af154010" />
