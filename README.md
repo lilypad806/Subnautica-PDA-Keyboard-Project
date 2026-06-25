@@ -55,6 +55,11 @@ This is where you input the micro USB
 
 <img width="322" height="121" alt="image_2026-06-22_214208704" src="https://github.com/user-attachments/assets/0a69fab8-e3c1-4bd5-a7a9-d5b363178e05" />
 
+Below is a png of our Zine
+
+<img width="1410" height="2000" alt="Shortcut PDA Fallout Zine design" src="https://github.com/user-attachments/assets/d4e158f5-b6d5-4ead-9cb7-f3823e01c3f4" />
+
+
 
 
 
